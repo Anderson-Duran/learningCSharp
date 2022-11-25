@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\bin\Debug\net6.0\IndexadoresDeClasses.exe
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\bin\Debug\net6.0\IndexadoresDeClasses.deps.json
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\bin\Debug\net6.0\IndexadoresDeClasses.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\bin\Debug\net6.0\IndexadoresDeClasses.dll
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\bin\Debug\net6.0\IndexadoresDeClasses.pdb
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.dll
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\refint\IndexadoresDeClasses.dll
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.pdb
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\IndexadoresDeClasses.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\IndexadoresDeClasses\IndexadoresDeClasses\obj\Debug\net6.0\ref\IndexadoresDeClasses.dll

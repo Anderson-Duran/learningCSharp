@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\bin\Debug\net6.0\SobrecargaDeMetodos.exe
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\bin\Debug\net6.0\SobrecargaDeMetodos.deps.json
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\bin\Debug\net6.0\SobrecargaDeMetodos.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\bin\Debug\net6.0\SobrecargaDeMetodos.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\bin\Debug\net6.0\SobrecargaDeMetodos.pdb
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\refint\SobrecargaDeMetodos.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.pdb
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\SobrecargaDeMetodos.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeMetodos\SobrecargaDeMetodos\obj\Debug\net6.0\ref\SobrecargaDeMetodos.dll

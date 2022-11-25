@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\bin\Debug\net6.0\LoteriaRandom.exe
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\bin\Debug\net6.0\LoteriaRandom.deps.json
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\bin\Debug\net6.0\LoteriaRandom.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\bin\Debug\net6.0\LoteriaRandom.dll
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\bin\Debug\net6.0\LoteriaRandom.pdb
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.dll
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\refint\LoteriaRandom.dll
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.pdb
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\LoteriaRandom.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\LoteriaRandom\LoteriaRandom\obj\Debug\net6.0\ref\LoteriaRandom.dll

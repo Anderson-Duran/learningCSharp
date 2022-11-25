@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\bin\Debug\net6.0\OperadorThis.exe
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\bin\Debug\net6.0\OperadorThis.deps.json
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\bin\Debug\net6.0\OperadorThis.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\bin\Debug\net6.0\OperadorThis.dll
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\bin\Debug\net6.0\OperadorThis.pdb
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.dll
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\refint\OperadorThis.dll
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.pdb
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\OperadorThis.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\OperadorThis\OperadorThis\obj\Debug\net6.0\ref\OperadorThis.dll

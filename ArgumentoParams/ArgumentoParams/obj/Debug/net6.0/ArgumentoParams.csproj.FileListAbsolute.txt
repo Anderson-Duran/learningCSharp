@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\bin\Debug\net6.0\ArgumentoParams.exe
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\bin\Debug\net6.0\ArgumentoParams.deps.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\bin\Debug\net6.0\ArgumentoParams.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\bin\Debug\net6.0\ArgumentoParams.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\bin\Debug\net6.0\ArgumentoParams.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\refint\ArgumentoParams.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ArgumentoParams.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoParams\ArgumentoParams\obj\Debug\net6.0\ref\ArgumentoParams.dll

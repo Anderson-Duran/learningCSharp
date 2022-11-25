@@ -1,0 +1,8 @@
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\ander\Desktop\Byte Bank\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

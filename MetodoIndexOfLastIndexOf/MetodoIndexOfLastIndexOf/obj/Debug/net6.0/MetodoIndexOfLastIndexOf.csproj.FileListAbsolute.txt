@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\bin\Debug\net6.0\MetodoIndexOfLastIndexOf.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\bin\Debug\net6.0\MetodoIndexOfLastIndexOf.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\bin\Debug\net6.0\MetodoIndexOfLastIndexOf.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\bin\Debug\net6.0\MetodoIndexOfLastIndexOf.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\bin\Debug\net6.0\MetodoIndexOfLastIndexOf.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\refint\MetodoIndexOfLastIndexOf.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\MetodoIndexOfLastIndexOf.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoIndexOfLastIndexOf\MetodoIndexOfLastIndexOf\obj\Debug\net6.0\ref\MetodoIndexOfLastIndexOf.dll

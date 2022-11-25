@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\bin\Debug\net6.0\TransferenciaBancária.exe
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\bin\Debug\net6.0\TransferenciaBancária.deps.json
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\bin\Debug\net6.0\TransferenciaBancária.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\bin\Debug\net6.0\TransferenciaBancária.dll
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\bin\Debug\net6.0\TransferenciaBancária.pdb
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.dll
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\refint\TransferenciaBancária.dll
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.pdb
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\TransferenciaBancária.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\TransferenciaBancária\TransferenciaBancária\obj\Debug\net6.0\ref\TransferenciaBancária.dll

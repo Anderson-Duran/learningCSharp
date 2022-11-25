@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\bin\Debug\net6.0\MembrosProtected.exe
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\bin\Debug\net6.0\MembrosProtected.deps.json
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\bin\Debug\net6.0\MembrosProtected.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\bin\Debug\net6.0\MembrosProtected.dll
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\bin\Debug\net6.0\MembrosProtected.pdb
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.dll
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\refint\MembrosProtected.dll
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.pdb
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\MembrosProtected.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MembrosProtected\MembrosProtected\obj\Debug\net6.0\ref\MembrosProtected.dll

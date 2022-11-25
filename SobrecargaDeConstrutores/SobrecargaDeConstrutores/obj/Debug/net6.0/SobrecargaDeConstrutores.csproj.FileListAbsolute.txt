@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\bin\Debug\net6.0\SobrecargaDeConstrutores.exe
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\bin\Debug\net6.0\SobrecargaDeConstrutores.deps.json
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\bin\Debug\net6.0\SobrecargaDeConstrutores.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\bin\Debug\net6.0\SobrecargaDeConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\bin\Debug\net6.0\SobrecargaDeConstrutores.pdb
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\refint\SobrecargaDeConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.pdb
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\SobrecargaDeConstrutores.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\SobrecargaDeConstrutores\SobrecargaDeConstrutores\obj\Debug\net6.0\ref\SobrecargaDeConstrutores.dll

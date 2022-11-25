@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.exe
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.deps.json
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.dll
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.dll
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\refint\ClassesMetodosAbstratos.dll
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ref\ClassesMetodosAbstratos.dll

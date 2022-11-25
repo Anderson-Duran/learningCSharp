@@ -1,0 +1,17 @@
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\bin\Debug\net6.0-windows\Calcl.exe
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\bin\Debug\net6.0-windows\Calcl.deps.json
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\bin\Debug\net6.0-windows\Calcl.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\bin\Debug\net6.0-windows\Calcl.dll
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\bin\Debug\net6.0-windows\Calcl.pdb
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.Form1.resources
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.dll
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\refint\Calcl.dll
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.pdb
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\Calcl.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\Calcl\Calcl\obj\Debug\net6.0-windows\ref\Calcl.dll

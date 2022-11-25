@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\bin\Debug\net6.0\ClassStatic.exe
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\bin\Debug\net6.0\ClassStatic.deps.json
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\bin\Debug\net6.0\ClassStatic.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\bin\Debug\net6.0\ClassStatic.dll
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\bin\Debug\net6.0\ClassStatic.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.dll
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\refint\ClassStatic.dll
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ClassStatic.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ClassStatic\ClassStatic\obj\Debug\net6.0\ref\ClassStatic.dll

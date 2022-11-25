@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\bin\Debug\net6.0\paoMetro.exe
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\bin\Debug\net6.0\paoMetro.deps.json
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\bin\Debug\net6.0\paoMetro.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\bin\Debug\net6.0\paoMetro.dll
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\bin\Debug\net6.0\paoMetro.pdb
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.dll
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\refint\paoMetro.dll
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.pdb
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\paoMetro.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\paoMetro\paoMetro\obj\Debug\net6.0\ref\paoMetro.dll

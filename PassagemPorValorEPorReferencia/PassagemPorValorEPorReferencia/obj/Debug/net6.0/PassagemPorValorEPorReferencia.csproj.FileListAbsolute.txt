@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\bin\Debug\net6.0\PassagemPorValorEPorReferencia.exe
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\bin\Debug\net6.0\PassagemPorValorEPorReferencia.deps.json
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\bin\Debug\net6.0\PassagemPorValorEPorReferencia.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\bin\Debug\net6.0\PassagemPorValorEPorReferencia.dll
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\bin\Debug\net6.0\PassagemPorValorEPorReferencia.pdb
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.dll
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\refint\PassagemPorValorEPorReferencia.dll
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.pdb
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\PassagemPorValorEPorReferencia.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\PassagemPorValorEPorReferencia\PassagemPorValorEPorReferencia\obj\Debug\net6.0\ref\PassagemPorValorEPorReferencia.dll

@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\bin\Debug\net6.0\ExercicioSupermercadoMenorPreço.exe
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\bin\Debug\net6.0\ExercicioSupermercadoMenorPreço.deps.json
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\bin\Debug\net6.0\ExercicioSupermercadoMenorPreço.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\bin\Debug\net6.0\ExercicioSupermercadoMenorPreço.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\bin\Debug\net6.0\ExercicioSupermercadoMenorPreço.pdb
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\refint\ExercicioSupermercadoMenorPreço.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.pdb
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ExercicioSupermercadoMenorPreço.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioSupermercadoMenorPreço\ExercicioSupermercadoMenorPreço\obj\Debug\net6.0\ref\ExercicioSupermercadoMenorPreço.dll

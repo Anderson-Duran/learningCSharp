@@ -1,0 +1,17 @@
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\bin\Debug\net6.0-windows\FormularioWinForm.exe
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\bin\Debug\net6.0-windows\FormularioWinForm.deps.json
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\bin\Debug\net6.0-windows\FormularioWinForm.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\bin\Debug\net6.0-windows\FormularioWinForm.dll
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\bin\Debug\net6.0-windows\FormularioWinForm.pdb
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.Form1.resources
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.dll
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\refint\FormularioWinForm.dll
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.pdb
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\FormularioWinForm.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\FormularioWinForm\FormularioWinForm\obj\Debug\net6.0-windows\ref\FormularioWinForm.dll

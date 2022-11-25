@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\bin\Debug\net6.0\CadeiaHeranca.exe
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\bin\Debug\net6.0\CadeiaHeranca.deps.json
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\bin\Debug\net6.0\CadeiaHeranca.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\bin\Debug\net6.0\CadeiaHeranca.dll
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\bin\Debug\net6.0\CadeiaHeranca.pdb
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.dll
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\refint\CadeiaHeranca.dll
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.pdb
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\CadeiaHeranca.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\CadeiaHeranca\CadeiaHeranca\obj\Debug\net6.0\ref\CadeiaHeranca.dll

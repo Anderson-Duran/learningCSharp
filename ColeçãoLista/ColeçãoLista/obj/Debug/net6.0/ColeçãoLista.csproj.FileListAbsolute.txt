@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\bin\Debug\net6.0\ColeçãoLista.exe
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\bin\Debug\net6.0\ColeçãoLista.deps.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\bin\Debug\net6.0\ColeçãoLista.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\bin\Debug\net6.0\ColeçãoLista.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\bin\Debug\net6.0\ColeçãoLista.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\refint\ColeçãoLista.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ColeçãoLista.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLista\ColeçãoLista\obj\Debug\net6.0\ref\ColeçãoLista.dll

@@ -1,0 +1,17 @@
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\bin\Debug\net6.0-windows\calcuParams.exe
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\bin\Debug\net6.0-windows\calcuParams.deps.json
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\bin\Debug\net6.0-windows\calcuParams.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\bin\Debug\net6.0-windows\calcuParams.dll
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\bin\Debug\net6.0-windows\calcuParams.pdb
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.Form1.resources
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.dll
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\refint\calcuParams.dll
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.pdb
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\calcuParams.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\calcuParams\calcuParams\obj\Debug\net6.0-windows\ref\calcuParams.dll

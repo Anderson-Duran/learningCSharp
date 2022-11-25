@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\bin\Debug\net6.0\Mineração.exe
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\bin\Debug\net6.0\Mineração.deps.json
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\bin\Debug\net6.0\Mineração.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\bin\Debug\net6.0\Mineração.dll
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\bin\Debug\net6.0\Mineração.pdb
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.dll
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\refint\Mineração.dll
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.pdb
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\Mineração.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\Mineração\Mineração\obj\Debug\net6.0\ref\Mineração.dll

@@ -1,0 +1,17 @@
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\bin\Debug\net6.0-windows\exercicios.exe
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\bin\Debug\net6.0-windows\exercicios.deps.json
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\bin\Debug\net6.0-windows\exercicios.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\bin\Debug\net6.0-windows\exercicios.dll
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\bin\Debug\net6.0-windows\exercicios.pdb
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.Form1.resources
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.dll
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\refint\exercicios.dll
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.pdb
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\exercicios.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\exercicios\exercicios\obj\Debug\net6.0-windows\ref\exercicios.dll

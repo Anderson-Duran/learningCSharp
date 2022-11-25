@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\bin\Debug\net6.0\SenhaDoWhile.exe
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\bin\Debug\net6.0\SenhaDoWhile.deps.json
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\bin\Debug\net6.0\SenhaDoWhile.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\bin\Debug\net6.0\SenhaDoWhile.dll
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\bin\Debug\net6.0\SenhaDoWhile.pdb
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.dll
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\refint\SenhaDoWhile.dll
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.pdb
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\SenhaDoWhile.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\SenhaDoWhile\SenhaDoWhile\obj\Debug\net6.0\ref\SenhaDoWhile.dll

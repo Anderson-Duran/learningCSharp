@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\bin\Debug\net6.0\ArraysDeStruct.exe
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\bin\Debug\net6.0\ArraysDeStruct.deps.json
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\bin\Debug\net6.0\ArraysDeStruct.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\bin\Debug\net6.0\ArraysDeStruct.dll
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\bin\Debug\net6.0\ArraysDeStruct.pdb
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.dll
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\refint\ArraysDeStruct.dll
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.pdb
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ArraysDeStruct.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ArraysDeStruct\ArraysDeStruct\obj\Debug\net6.0\ref\ArraysDeStruct.dll

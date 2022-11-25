@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\bin\Debug\net6.0\MetodosQueRetornamObjetos.exe
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\bin\Debug\net6.0\MetodosQueRetornamObjetos.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\bin\Debug\net6.0\MetodosQueRetornamObjetos.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\bin\Debug\net6.0\MetodosQueRetornamObjetos.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\bin\Debug\net6.0\MetodosQueRetornamObjetos.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\refint\MetodosQueRetornamObjetos.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\MetodosQueRetornamObjetos.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosQueRetornamObjetos\MetodosQueRetornamObjetos\obj\Debug\net6.0\ref\MetodosQueRetornamObjetos.dll

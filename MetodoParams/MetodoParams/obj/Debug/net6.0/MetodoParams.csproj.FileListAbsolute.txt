@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\bin\Debug\net6.0\MetodoParams.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\bin\Debug\net6.0\MetodoParams.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\bin\Debug\net6.0\MetodoParams.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\bin\Debug\net6.0\MetodoParams.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\bin\Debug\net6.0\MetodoParams.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\refint\MetodoParams.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\MetodoParams.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoParams\MetodoParams\obj\Debug\net6.0\ref\MetodoParams.dll

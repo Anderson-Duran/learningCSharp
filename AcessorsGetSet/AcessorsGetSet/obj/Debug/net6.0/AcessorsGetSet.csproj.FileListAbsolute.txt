@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\bin\Debug\net6.0\AcessorsGetSet.exe
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\bin\Debug\net6.0\AcessorsGetSet.deps.json
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\bin\Debug\net6.0\AcessorsGetSet.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\bin\Debug\net6.0\AcessorsGetSet.dll
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\bin\Debug\net6.0\AcessorsGetSet.pdb
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.dll
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\refint\AcessorsGetSet.dll
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.pdb
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\AcessorsGetSet.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\AcessorsGetSet\AcessorsGetSet\obj\Debug\net6.0\ref\AcessorsGetSet.dll

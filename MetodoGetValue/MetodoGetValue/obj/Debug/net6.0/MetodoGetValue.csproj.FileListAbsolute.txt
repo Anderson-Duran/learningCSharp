@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\bin\Debug\net6.0\MetodoGetValue.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\bin\Debug\net6.0\MetodoGetValue.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\bin\Debug\net6.0\MetodoGetValue.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\bin\Debug\net6.0\MetodoGetValue.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\bin\Debug\net6.0\MetodoGetValue.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\refint\MetodoGetValue.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\MetodoGetValue.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetValue\MetodoGetValue\obj\Debug\net6.0\ref\MetodoGetValue.dll

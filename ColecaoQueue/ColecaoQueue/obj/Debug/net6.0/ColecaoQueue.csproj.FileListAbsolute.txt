@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\bin\Debug\net6.0\ColecaoQueue.exe
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\bin\Debug\net6.0\ColecaoQueue.deps.json
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\bin\Debug\net6.0\ColecaoQueue.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\bin\Debug\net6.0\ColecaoQueue.dll
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\bin\Debug\net6.0\ColecaoQueue.pdb
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.dll
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\refint\ColecaoQueue.dll
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.pdb
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ColecaoQueue.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ColecaoQueue\ColecaoQueue\obj\Debug\net6.0\ref\ColecaoQueue.dll

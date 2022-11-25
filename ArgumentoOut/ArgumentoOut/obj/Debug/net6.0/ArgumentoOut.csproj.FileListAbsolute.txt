@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\bin\Debug\net6.0\ArgumentoOut.exe
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\bin\Debug\net6.0\ArgumentoOut.deps.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\bin\Debug\net6.0\ArgumentoOut.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\bin\Debug\net6.0\ArgumentoOut.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\bin\Debug\net6.0\ArgumentoOut.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\refint\ArgumentoOut.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ArgumentoOut.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentoOut\ArgumentoOut\obj\Debug\net6.0\ref\ArgumentoOut.dll

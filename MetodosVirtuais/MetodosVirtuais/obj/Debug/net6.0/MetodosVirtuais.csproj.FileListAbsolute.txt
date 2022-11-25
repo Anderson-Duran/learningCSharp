@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\bin\Debug\net6.0\MetodosVirtuais.exe
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\bin\Debug\net6.0\MetodosVirtuais.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\bin\Debug\net6.0\MetodosVirtuais.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\bin\Debug\net6.0\MetodosVirtuais.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\bin\Debug\net6.0\MetodosVirtuais.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\refint\MetodosVirtuais.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\MetodosVirtuais.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVirtuais\MetodosVirtuais\obj\Debug\net6.0\ref\MetodosVirtuais.dll

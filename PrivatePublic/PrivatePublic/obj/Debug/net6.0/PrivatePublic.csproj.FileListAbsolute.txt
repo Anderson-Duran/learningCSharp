@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\bin\Debug\net6.0\PrivatePublic.exe
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\bin\Debug\net6.0\PrivatePublic.deps.json
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\bin\Debug\net6.0\PrivatePublic.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\bin\Debug\net6.0\PrivatePublic.dll
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\bin\Debug\net6.0\PrivatePublic.pdb
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.dll
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\refint\PrivatePublic.dll
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.pdb
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\PrivatePublic.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\PrivatePublic\PrivatePublic\obj\Debug\net6.0\ref\PrivatePublic.dll

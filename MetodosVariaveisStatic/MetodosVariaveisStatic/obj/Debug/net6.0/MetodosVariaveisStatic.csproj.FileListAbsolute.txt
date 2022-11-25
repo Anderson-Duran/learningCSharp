@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\bin\Debug\net6.0\MetodosVariaveisStatic.exe
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\bin\Debug\net6.0\MetodosVariaveisStatic.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\bin\Debug\net6.0\MetodosVariaveisStatic.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\bin\Debug\net6.0\MetodosVariaveisStatic.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\bin\Debug\net6.0\MetodosVariaveisStatic.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\refint\MetodosVariaveisStatic.dll
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\MetodosVariaveisStatic.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodosVariaveisStatic\MetodosVariaveisStatic\obj\Debug\net6.0\ref\MetodosVariaveisStatic.dll

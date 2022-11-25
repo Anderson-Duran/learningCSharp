@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\bin\Debug\net6.0\MetodoBinarySearch.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\bin\Debug\net6.0\MetodoBinarySearch.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\bin\Debug\net6.0\MetodoBinarySearch.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\bin\Debug\net6.0\MetodoBinarySearch.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\bin\Debug\net6.0\MetodoBinarySearch.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\refint\MetodoBinarySearch.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\MetodoBinarySearch.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoBinarySearch\MetodoBinarySearch\obj\Debug\net6.0\ref\MetodoBinarySearch.dll

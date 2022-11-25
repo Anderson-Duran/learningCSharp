@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\bin\Debug\net6.0\Namespace.exe
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\bin\Debug\net6.0\Namespace.deps.json
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\bin\Debug\net6.0\Namespace.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\bin\Debug\net6.0\Namespace.dll
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\bin\Debug\net6.0\Namespace.pdb
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.dll
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\refint\Namespace.dll
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.pdb
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\Namespace.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\Namespace\Namespace\obj\Debug\net6.0\ref\Namespace.dll

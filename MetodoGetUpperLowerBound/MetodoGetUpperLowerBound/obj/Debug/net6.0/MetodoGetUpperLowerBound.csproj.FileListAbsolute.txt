@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\bin\Debug\net6.0\MetodoGetUpperLowerBound.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\bin\Debug\net6.0\MetodoGetUpperLowerBound.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\bin\Debug\net6.0\MetodoGetUpperLowerBound.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\bin\Debug\net6.0\MetodoGetUpperLowerBound.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\bin\Debug\net6.0\MetodoGetUpperLowerBound.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\refint\MetodoGetUpperLowerBound.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\MetodoGetUpperLowerBound.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoGetUpperLowerBound\MetodoGetUpperLowerBound\obj\Debug\net6.0\ref\MetodoGetUpperLowerBound.dll

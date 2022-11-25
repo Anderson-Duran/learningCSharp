@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\bin\Debug\net6.0\ClassAula28.exe
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\bin\Debug\net6.0\ClassAula28.deps.json
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\bin\Debug\net6.0\ClassAula28.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\bin\Debug\net6.0\ClassAula28.dll
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\bin\Debug\net6.0\ClassAula28.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.dll
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\refint\ClassAula28.dll
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.pdb
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ClassAula28.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ClassAula28\ClassAula28\obj\Debug\net6.0\ref\ClassAula28.dll

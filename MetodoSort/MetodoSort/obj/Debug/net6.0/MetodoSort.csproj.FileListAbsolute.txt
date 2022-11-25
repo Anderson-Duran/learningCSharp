@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\bin\Debug\net6.0\MetodoSort.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\bin\Debug\net6.0\MetodoSort.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\bin\Debug\net6.0\MetodoSort.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\bin\Debug\net6.0\MetodoSort.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\bin\Debug\net6.0\MetodoSort.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\refint\MetodoSort.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\MetodoSort.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoSort\MetodoSort\obj\Debug\net6.0\ref\MetodoSort.dll

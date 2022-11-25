@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.exe
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.deps.json
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.dll
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.pdb
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.dll
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\refint\MediaNota.dll
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.pdb
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MediaNota\MediaNota\obj\Debug\net6.0\ref\MediaNota.dll

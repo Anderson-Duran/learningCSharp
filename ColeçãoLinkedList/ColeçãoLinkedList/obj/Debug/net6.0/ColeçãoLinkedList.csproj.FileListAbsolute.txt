@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\bin\Debug\net6.0\ColeçãoLinkedList.exe
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\bin\Debug\net6.0\ColeçãoLinkedList.deps.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\bin\Debug\net6.0\ColeçãoLinkedList.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\bin\Debug\net6.0\ColeçãoLinkedList.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\bin\Debug\net6.0\ColeçãoLinkedList.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\refint\ColeçãoLinkedList.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ColeçãoLinkedList.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoLinkedList\ColeçãoLinkedList\obj\Debug\net6.0\ref\ColeçãoLinkedList.dll

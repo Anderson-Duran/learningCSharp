@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\bin\Debug\net6.0\ColeçãoDictionary.exe
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\bin\Debug\net6.0\ColeçãoDictionary.deps.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\bin\Debug\net6.0\ColeçãoDictionary.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\bin\Debug\net6.0\ColeçãoDictionary.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\bin\Debug\net6.0\ColeçãoDictionary.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\refint\ColeçãoDictionary.dll
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.pdb
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ColeçãoDictionary.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ColeçãoDictionary\ColeçãoDictionary\obj\Debug\net6.0\ref\ColeçãoDictionary.dll

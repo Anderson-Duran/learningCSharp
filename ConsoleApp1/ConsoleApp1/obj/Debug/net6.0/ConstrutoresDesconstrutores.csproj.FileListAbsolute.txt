@@ -1,0 +1,5 @@
+C:\Users\ander\Desktop\Byte Bank\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConstrutoresDesconstrutores.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConstrutoresDesconstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConstrutoresDesconstrutores.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConstrutoresDesconstrutores.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConstrutoresDesconstrutores.csproj.CoreCompileInputs.cache

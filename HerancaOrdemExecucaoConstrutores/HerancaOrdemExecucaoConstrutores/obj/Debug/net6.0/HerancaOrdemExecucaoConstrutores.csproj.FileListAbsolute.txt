@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\bin\Debug\net6.0\HerancaOrdemExecucaoConstrutores.exe
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\bin\Debug\net6.0\HerancaOrdemExecucaoConstrutores.deps.json
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\bin\Debug\net6.0\HerancaOrdemExecucaoConstrutores.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\bin\Debug\net6.0\HerancaOrdemExecucaoConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\bin\Debug\net6.0\HerancaOrdemExecucaoConstrutores.pdb
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\refint\HerancaOrdemExecucaoConstrutores.dll
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.pdb
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\HerancaOrdemExecucaoConstrutores.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\HerancaOrdemExecucaoConstrutores\HerancaOrdemExecucaoConstrutores\obj\Debug\net6.0\ref\HerancaOrdemExecucaoConstrutores.dll

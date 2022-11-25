@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\bin\Debug\net6.0\exerciciometodoretornaobjeto.exe
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\bin\Debug\net6.0\exerciciometodoretornaobjeto.deps.json
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\bin\Debug\net6.0\exerciciometodoretornaobjeto.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\bin\Debug\net6.0\exerciciometodoretornaobjeto.dll
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\bin\Debug\net6.0\exerciciometodoretornaobjeto.pdb
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.dll
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\refint\exerciciometodoretornaobjeto.dll
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.pdb
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\exerciciometodoretornaobjeto.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\exerciciometodoretornaobjeto\exerciciometodoretornaobjeto\obj\Debug\net6.0\ref\exerciciometodoretornaobjeto.dll

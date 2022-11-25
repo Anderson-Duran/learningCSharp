@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenhaDoWhile", "SenhaDoWhile\SenhaDoWhile.csproj", "{E4186739-4BA5-484E-894C-2D827EDEC2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4186739-4BA5-484E-894C-2D827EDEC2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4186739-4BA5-484E-894C-2D827EDEC2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4186739-4BA5-484E-894C-2D827EDEC2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4186739-4BA5-484E-894C-2D827EDEC2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCBDEAF-3B3E-4E8C-9509-56568D615D9B}
+	EndGlobalSection
+EndGlobal

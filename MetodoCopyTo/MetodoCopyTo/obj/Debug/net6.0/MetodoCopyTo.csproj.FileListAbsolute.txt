@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\bin\Debug\net6.0\MetodoCopyTo.exe
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\bin\Debug\net6.0\MetodoCopyTo.deps.json
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\bin\Debug\net6.0\MetodoCopyTo.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\bin\Debug\net6.0\MetodoCopyTo.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\bin\Debug\net6.0\MetodoCopyTo.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\refint\MetodoCopyTo.dll
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.pdb
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\MetodoCopyTo.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\MetodoCopyTo\MetodoCopyTo\obj\Debug\net6.0\ref\MetodoCopyTo.dll

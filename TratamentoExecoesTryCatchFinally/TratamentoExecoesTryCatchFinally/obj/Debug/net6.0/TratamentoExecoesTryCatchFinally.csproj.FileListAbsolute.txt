@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\bin\Debug\net6.0\TratamentoExecoesTryCatchFinally.exe
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\bin\Debug\net6.0\TratamentoExecoesTryCatchFinally.deps.json
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\bin\Debug\net6.0\TratamentoExecoesTryCatchFinally.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\bin\Debug\net6.0\TratamentoExecoesTryCatchFinally.dll
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\bin\Debug\net6.0\TratamentoExecoesTryCatchFinally.pdb
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.dll
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\refint\TratamentoExecoesTryCatchFinally.dll
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.pdb
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\TratamentoExecoesTryCatchFinally.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\TratamentoExecoesTryCatchFinally\TratamentoExecoesTryCatchFinally\obj\Debug\net6.0\ref\TratamentoExecoesTryCatchFinally.dll

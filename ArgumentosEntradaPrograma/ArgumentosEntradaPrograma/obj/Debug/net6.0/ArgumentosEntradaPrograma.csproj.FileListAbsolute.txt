@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\bin\Debug\net6.0\ArgumentosEntradaPrograma.exe
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\bin\Debug\net6.0\ArgumentosEntradaPrograma.deps.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\bin\Debug\net6.0\ArgumentosEntradaPrograma.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\bin\Debug\net6.0\ArgumentosEntradaPrograma.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\bin\Debug\net6.0\ArgumentosEntradaPrograma.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\refint\ArgumentosEntradaPrograma.dll
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.pdb
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ArgumentosEntradaPrograma.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ArgumentosEntradaPrograma\ArgumentosEntradaPrograma\obj\Debug\net6.0\ref\ArgumentosEntradaPrograma.dll

@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\bin\Debug\net6.0\ExercicioHerança.exe
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\bin\Debug\net6.0\ExercicioHerança.deps.json
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\bin\Debug\net6.0\ExercicioHerança.runtimeconfig.json
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\bin\Debug\net6.0\ExercicioHerança.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\bin\Debug\net6.0\ExercicioHerança.pdb
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.AssemblyInfo.cs
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\refint\ExercicioHerança.dll
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.pdb
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ExercicioHerança.genruntimeconfig.cache
+C:\Users\ander\Desktop\Byte Bank\ExercicioHerança\ExercicioHerança\obj\Debug\net6.0\ref\ExercicioHerança.dll
